@@ -18,3 +18,4 @@ style="display: inline-block; margin: 0 auto; max-width: 300px">
 ## Inspired by
 - https://openai.com/dall-e-2/
 - https://zoomscape.ai/
+- https://www.seancdavis.com/posts/three-ways-to-add-image-to-github-readme/
