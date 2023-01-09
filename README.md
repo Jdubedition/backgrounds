@@ -11,6 +11,10 @@ This describes how the backgrounds were created for YouTube channel [CFiveDev](h
 
 ## Examples
 <img
+  src="/images/Scenario-GG-1673222505.png"
+  style="display: inline-block; margin: 0 auto; max-width: 300px">
+
+<img
   src="/images/Scenario-GG-11673113941.png"
   style="display: inline-block; margin: 0 auto; max-width: 300px">
 
